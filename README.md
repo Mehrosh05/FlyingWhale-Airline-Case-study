@@ -1,4 +1,4 @@
-# FlyingWhale-Airline-Case-Sydy
+# FlyingWhale-Airline-Case-Study
 
 ## Overview
 This project leverages customer flight activity and loyalty history datasets to enhance FlyingWhale Airline's business intelligence capabilities. By analyzing customer flight activity, loyalty segmentation, and enrollment and cancellation trends, the project aims to develop strategic insights and actionable recommendations to increase the duration of customer enrollments and reduce the rate of cancellations. The ultimate goal is to improve customer retention and satisfaction.
